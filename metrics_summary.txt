@@ -1,0 +1,22 @@
+MAHALANOBIS OUTLIER DETECTION - CALCULATED OUTPUTS
+=================================================
+Dataset rows: 205
+Number of variables: 3
+Random seed: 42
+Chi-square confidence level: 99%
+Degrees of freedom: 3
+Squared-distance cutoff: 11.344867
+Detected outliers: 5
+Known injected outliers: 5
+Injected outliers detected: 5
+False positives among normal records: 0
+Maximum absolute difference vs SciPy: 3.5527136788e-15
+SciPy validation available: True
+
+Mean vector:
+[49.93   30.0304 69.952 ]
+
+Covariance matrix:
+[[59.5505 13.0476 32.1661]
+ [13.0476 29.3383 -2.261 ]
+ [32.1661 -2.261  96.0443]]
